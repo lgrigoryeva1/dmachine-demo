@@ -1,4 +1,4 @@
-## This is a very simple Flask server that controls a drink machine
+### A simple Flask server that controls a drink machine
 This is a simplified version of the Mimosa Machine. 
 
 
